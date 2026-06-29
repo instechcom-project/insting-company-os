@@ -1,3 +1,17 @@
 # Insting Company OS
 
-Welcome to the Insting Company OS repository.
+Vision
+
+Mission
+
+Architecture
+
+Workflow
+
+Repository Structure
+
+Getting Started
+
+Roadmap
+
+License
